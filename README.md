@@ -1,7 +1,7 @@
 # full-stack-web-dev-project
 Learning fullstack with Ben Awad's fullstack tutorial.
 
-##Technologies used: 
+## Technologies used: 
 - React (Familiar)
 - Typescript (Familiar)
 - GraphQL (? the rest)
